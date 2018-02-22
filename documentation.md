@@ -34,5 +34,9 @@ ruby parser.rb "courses.csv" "prerequisites.csv"
 
 ### Final remarks
 
-Challenge wasn't able to be completed in JAVA in the timeframe as it was the first time using Java.
+Challenge wasn't able to be completed in Java in the timeframe as it was the first time using Java. 
+
+Had issues with git on the unzipped file so commits are not showing properly. Solved the issue by copying files to a new folder and starting a new git repo.
+
+
 
