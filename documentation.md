@@ -26,7 +26,7 @@ _Prerequisites Array_ = a copy of the prerequisites csv file [[2,1],..[11,10]]
 
 ### Finished product
 
-ruby parser.rb <courses file> <prerequisites file>
+ruby parser.rb "[courses file]" "[prereqs file]"
 
 - Run following script to run application:
 
